@@ -1,0 +1,306 @@
+[
+  {
+    "tag": "greeting",
+    "patterns": [
+      "Hi",
+      "Hello",
+      "Hey",
+      "Good morning",
+      "Good afternoon",
+      "Good evening",
+      "Is anyone there?",
+      "Namaste",
+      "Hi there",
+      "Greetings"
+    ],
+    "responses": [
+      "Hello! Welcome to our admission inquiry chatbot. How can I help you today?",
+      "Hi there! I'm here to assist you with admission-related queries. What would you like to know?",
+      "Greetings! How may I assist you with your admission inquiries?",
+      "Hello! Feel free to ask me anything about admissions."
+    ]
+  },
+  {
+    "tag": "admission_process",
+    "patterns": [
+      "How do I apply?",
+      "What is the admission process?",
+      "How can I get admission?",
+      "Steps for admission",
+      "Admission procedure",
+      "How to apply for admission?",
+      "Application process",
+      "How to get admitted",
+      "Tell me about the admission process",
+      "What are the steps to apply?"
+    ],
+    "responses": [
+      "The admission process involves: 1) Fill out the online application form, 2) Submit required documents, 3) Pay the application fee, 4) Attend the entrance exam/interview if applicable, 5) Wait for the admission decision. Would you like details about any specific step?",
+      "To apply for admission, visit our website, complete the application form, upload necessary documents, and pay the application fee. You'll receive further instructions via email.",
+      "Our admission process is simple: Apply online \u2192 Submit documents \u2192 Take entrance test (if required) \u2192 Interview \u2192 Admission decision. Need help with any step?"
+    ]
+  },
+  {
+    "tag": "eligibility",
+    "patterns": [
+      "What are the eligibility criteria?",
+      "Am I eligible?",
+      "Eligibility requirements",
+      "Who can apply?",
+      "What qualifications do I need?",
+      "Admission requirements",
+      "Minimum qualifications",
+      "Do I qualify?",
+      "What do I need to be eligible?",
+      "Eligibility for admission"
+    ],
+    "responses": [
+      "Eligibility criteria vary by program. Generally, you need: 1) Completed previous education level, 2) Minimum percentage/GPA requirements, 3) Valid entrance exam scores (if applicable). Which program are you interested in?",
+      "Basic eligibility includes completion of required educational qualifications with minimum marks. Specific requirements depend on the course. Can you tell me which program you're interested in?",
+      "Eligibility depends on the course you're applying for. Please specify your preferred program, and I'll provide detailed eligibility criteria."
+    ]
+  },
+  {
+    "tag": "application_deadline",
+    "patterns": [
+      "What is the application deadline?",
+      "When is the last date to apply?",
+      "Application deadline",
+      "Last date for application",
+      "When does admission close?",
+      "Deadline for admission",
+      "Till when can I apply?",
+      "When is the cutoff date?",
+      "Application closing date",
+      "When should I apply by?"
+    ],
+    "responses": [
+      "Application deadlines vary by program and session. Typically, applications for the fall semester close in June, and for the spring semester in December. Please check our website for specific dates for your program.",
+      "The application deadline depends on the program and intake. I recommend checking our official website or contacting the admissions office for exact dates.",
+      "Deadlines vary by course. For the most accurate information, please visit our admissions page or contact our office directly."
+    ]
+  },
+  {
+    "tag": "required_documents",
+    "patterns": [
+      "What documents do I need?",
+      "Required documents",
+      "Documents needed for admission",
+      "What should I submit?",
+      "Document checklist",
+      "What papers are required?",
+      "List of documents",
+      "Which documents to upload?",
+      "What files do I need?",
+      "Documentation requirements"
+    ],
+    "responses": [
+      "Required documents typically include: 1) Completed application form, 2) Academic transcripts/mark sheets, 3) Certificates, 4) ID proof, 5) Passport-size photographs, 6) Entrance exam scorecard (if applicable), 7) Category certificate (if applicable). Specific requirements may vary by program.",
+      "You'll need: Previous academic records, identity proof, photographs, entrance test scores (if any), and any program-specific documents. Check your program's specific requirements on our website.",
+      "Common documents include academic certificates, mark sheets, ID proof, photos, and test scores. Requirements may differ by course. Would you like the list for a specific program?"
+    ]
+  },
+  {
+    "tag": "fees",
+    "patterns": [
+      "What are the fees?",
+      "How much does it cost?",
+      "Admission fees",
+      "Tuition fees",
+      "Course fees",
+      "Fee structure",
+      "Cost of admission",
+      "What is the fee?",
+      "How much do I need to pay?",
+      "Total fees",
+      "What is the cost?"
+    ],
+    "responses": [
+      "Fee structure varies by program. It includes tuition fees, admission fees, and other charges. For detailed information about fees for your chosen program, please visit our website or contact the accounts department.",
+      "Fees depend on the course you select. We offer various programs with different fee structures. Please specify which program you're interested in, or check our official website for complete fee details.",
+      "The fee structure varies by program and includes tuition, laboratory, library, and other charges. For exact amounts, please refer to our website or contact the admissions office."
+    ]
+  },
+  {
+    "tag": "scholarships",
+    "patterns": [
+      "Are scholarships available?",
+      "Do you offer scholarships?",
+      "Financial aid",
+      "Scholarship opportunities",
+      "How to get scholarship?",
+      "Scholarship criteria",
+      "Fee concession",
+      "Can I get financial help?",
+      "Scholarship programs",
+      "How to apply for scholarship?"
+    ],
+    "responses": [
+      "Yes, we offer various scholarships based on merit, sports, and financial need. Eligible students can apply during the admission process. Visit our scholarships page for detailed criteria and application procedures.",
+      "We provide scholarships for meritorious students, economically disadvantaged students, and sports achievers. Application forms are available on our website. Would you like more information?",
+      "Scholarships are available based on academic performance, financial need, and special achievements. Check our website for eligibility criteria and how to apply."
+    ]
+  },
+  {
+    "tag": "entrance_exam",
+    "patterns": [
+      "Is there an entrance exam?",
+      "Do I need to take a test?",
+      "Entrance test details",
+      "What is the entrance exam?",
+      "Admission test",
+      "Exam pattern",
+      "How to prepare for entrance?",
+      "Entrance examination",
+      "Do I need to give entrance?",
+      "What about entrance test?"
+    ],
+    "responses": [
+      "Entrance exams are required for certain programs. The exam pattern, syllabus, and dates are available on our website. Some programs may accept national-level test scores as well.",
+      "Yes, some courses require entrance examinations. The exam details, including syllabus and dates, can be found on our admissions portal. Which program are you interested in?",
+      "Entrance exam requirements depend on the program. Please check our website for specific exam details, or let me know which course you're applying for."
+    ]
+  },
+  {
+    "tag": "courses_offered",
+    "patterns": [
+      "What courses do you offer?",
+      "Available programs",
+      "What can I study?",
+      "List of courses",
+      "Programs available",
+      "What courses are there?",
+      "What programs do you have?",
+      "Which courses can I take?",
+      "Tell me about courses",
+      "What subjects are offered?"
+    ],
+    "responses": [
+      "We offer a wide range of undergraduate, postgraduate, and diploma programs in various fields including Engineering, Arts, Science, Commerce, Management, and more. Visit our website for a complete list.",
+      "Our institution offers diverse programs in multiple disciplines. For a comprehensive list of all available courses, please visit our courses page on the website.",
+      "We have programs in Engineering, Business, Sciences, Humanities, and more. Would you like information about a specific field of study?"
+    ]
+  },
+  {
+    "tag": "campus_facilities",
+    "patterns": [
+      "What facilities do you have?",
+      "Campus facilities",
+      "What is available on campus?",
+      "Library facilities",
+      "Hostel facilities",
+      "Sports facilities",
+      "Infrastructure",
+      "Tell me about the campus",
+      "What amenities are there?",
+      "Campus infrastructure"
+    ],
+    "responses": [
+      "Our campus features modern classrooms, well-equipped laboratories, a comprehensive library, sports facilities, hostel accommodation, cafeteria, medical facilities, and more. Would you like details about any specific facility?",
+      "We provide excellent infrastructure including state-of-the-art labs, digital library, sports complex, hostel, transportation, and healthcare services for our students.",
+      "Campus facilities include academic buildings, research centers, library, sports grounds, hostels, cafeterias, and recreational areas. Visit our campus page for virtual tour and detailed information."
+    ]
+  },
+  {
+    "tag": "hostel",
+    "patterns": [
+      "Do you have hostel?",
+      "Hostel availability",
+      "Accommodation facilities",
+      "Can I stay on campus?",
+      "Hostel fees",
+      "How to get hostel?",
+      "Is hostel available?",
+      "Tell me about hostel",
+      "Residential facilities",
+      "Student accommodation"
+    ],
+    "responses": [
+      "Yes, we have separate hostel facilities for boys and girls with modern amenities. Hostel admission is done along with course admission. For fees and booking details, please contact the hostel office.",
+      "We provide comfortable hostel accommodation with mess facilities, Wi-Fi, recreation rooms, and 24/7 security. Apply for hostel during your admission process.",
+      "Hostel facilities are available for outstation students. The accommodation includes furnished rooms, mess, laundry, and all necessary amenities. Check our website for fees and application process."
+    ]
+  },
+  {
+    "tag": "placement",
+    "patterns": [
+      "What about placements?",
+      "Placement opportunities",
+      "Do you provide placements?",
+      "Job opportunities",
+      "Campus recruitment",
+      "Placement record",
+      "Which companies visit?",
+      "Placement statistics",
+      "Career opportunities",
+      "Job assistance"
+    ],
+    "responses": [
+      "We have a dedicated placement cell that organizes campus recruitment drives. Top companies from various sectors visit our campus. Our placement record shows consistent growth with students getting placed in reputed organizations.",
+      "Our placement cell provides training, career guidance, and connects students with leading companies. We maintain strong industry partnerships to ensure excellent placement opportunities.",
+      "Yes, we offer placement assistance and career counseling. Many renowned companies participate in our campus recruitment. For detailed placement statistics, please visit our placement page."
+    ]
+  },
+  {
+    "tag": "contact",
+    "patterns": [
+      "How can I contact you?",
+      "Contact details",
+      "Phone number",
+      "Email address",
+      "Where are you located?",
+      "How to reach you?",
+      "Contact information",
+      "Get in touch",
+      "Your address",
+      "Office contact"
+    ],
+    "responses": [
+      "You can reach us at: Email: admissions@college.edu, Phone: +91-XXXXXXXXXX. Our admissions office is open Monday to Friday, 9 AM to 5 PM. Visit our website for the complete contact details.",
+      "For admission queries, email us at admissions@college.edu or call +91-XXXXXXXXXX. You can also visit our campus during working hours.",
+      "Contact our admissions office: Phone: +91-XXXXXXXXXX, Email: admissions@college.edu. For more ways to reach us, please visit our contact page."
+    ]
+  },
+  {
+    "tag": "thanks",
+    "patterns": [
+      "Thank you",
+      "Thanks",
+      "That's helpful",
+      "Thanks a lot",
+      "Appreciate it",
+      "Thanks for the help",
+      "Thank you so much",
+      "Thanks for info",
+      "Helpful",
+      "Great help"
+    ],
+    "responses": [
+      "You're welcome! Feel free to ask if you have any more questions about admissions.",
+      "Happy to help! If you need any other information, just let me know.",
+      "My pleasure! Don't hesitate to reach out if you have more questions. Good luck with your application!",
+      "Glad I could help! Best wishes for your admission process."
+    ]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": [
+      "Bye",
+      "Goodbye",
+      "See you later",
+      "Take care",
+      "I have to go",
+      "Talk to you later",
+      "See you",
+      "Catch you later",
+      "Gotta go",
+      "Bye bye"
+    ],
+    "responses": [
+      "Goodbye! Best of luck with your admission. Feel free to return if you have more questions!",
+      "Take care! We hope to see you as a student soon. Contact us anytime for assistance!",
+      "Bye! Wishing you all the best with your application. Have a great day!",
+      "See you! Good luck with your admission journey!"
+    ]
+  }
+]
